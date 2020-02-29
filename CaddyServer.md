@@ -79,6 +79,12 @@ http://:6088 {
     encode zstd gzip
 }
 ```
+
+最后输入以下命令,如果没报错就可以了
+```shell
+caddy reload
+```
+
 *ps 6088是端口,可以自行修改*
 
 之后我们上浏览器输入`http://127.0.0.1:6088` or `http://localhost:6088`就可以看到网站了
