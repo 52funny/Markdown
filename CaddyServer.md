@@ -105,5 +105,5 @@ caddy reload
 
 
 此处贴一张网站的Photo
-![Ariang](https://www.redwolf233.top/upload/2020/2/%E6%B7%B1%E5%BA%A6%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20200229162429-2097761c8e724fc5a1a3c5da281c9acc.png)
+![Ariang](https://file.redwolf233.top/blogpic/ece6ff007aebcd10564143755298ca37.png)
 

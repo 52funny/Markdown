@@ -102,7 +102,7 @@ chat.redwolf233.top {
 ```
 
 然后你就可以访问你的域名来进行操作了,下面给几张Photos
-![](https://www.redwolf233.top/upload/2020/3/%E6%B7%B1%E5%BA%A6%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20200302155847-8d82a00449d94da388a928014c8f917e.png)
+![](https://file.redwolf233.top/blogpic/6e9108cec838a6d04926cf1d711a7d73.png)
 
 
-![](https://www.redwolf233.top/upload/2020/3/%E6%B7%B1%E5%BA%A6%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20200302155035-d900f458e2c14d3ea2ecb187f7c8e5c4.png)
+![](https://file.redwolf233.top/blogpic/90d05b04d3819a675a40550a9629584b.png)
